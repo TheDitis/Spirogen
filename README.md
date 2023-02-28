@@ -2,9 +2,9 @@
 A web application for creating geometric visualizations and animations
 
 ## Disclaimer
-This is a very fresh project that I am actively working on. Some features aren't finished yet, and many others are yet to come.
+This is a very fresh project that I am actively working on. Some features aren't finished yet, and many others are yet to come. There is currently no mobile UI, and likely will never be, given the complexity, desktop is recommended.
 
-[The Spirogen app is live! Check it out here](https://www.spirogen.art/)
+[The Spirogen app is live! Check it out here](https://www.spirogen.art/) (on a computer, not mobile)
 
 ## Basics:
 
