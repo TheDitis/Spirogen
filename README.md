@@ -1,6 +1,9 @@
 # Spirogen
 A web application for creating geometric visualizations and animations
 
+ <img width="2416" alt="Spirogen Demo Shot 1" src="https://user-images.githubusercontent.com/44735056/221964739-b73315e9-b615-4291-bb79-c4510f9fe58a.png">
+
+
 ## Disclaimer
 This is a very fresh project that I am actively working on. Some features aren't finished yet, and many others are yet to come. There is currently no mobile UI, and likely will never be, given the complexity, desktop is recommended.
 
