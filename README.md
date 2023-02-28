@@ -31,6 +31,27 @@ This is a very fresh project that I am actively working on. Some features aren't
 
 MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 
+## What's in the works:
+- [ ] Tooltips for buttons
+- [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
+- [ ] Welcome modal (instructions/walkthrough, choose a demo project to load, & epillepsy warning)
+- [ ] Export project as video
+- [ ] Login
+- [ ] Save projects to your account in the cloud
+- [ ] Community section (peruse projects that others have created)
+- [ ] Timeline navigation ergonomics options & improvements
+
+## Keyboard Shortcuts:
+- <kbd>f</kbd>: toggle full-screen view
+- <kbd>space</kbd>: pause/play
+- <kbd>t</kbd>: open/close timeline
+- <kbd>ctrl/⌘</kbd> + <kbd>s</kbd>: save svg file of the pattern, exactly as it is at that second
+- <kbd>ctrl/⌘</kbd> + <kbd>shift</kbd> + <kbd>←</kbd>: save the project as a `.spirogen` file
+- <kbd>esc</kbd>
+  - if in fullscreen, exit fullscreen
+  - else if in linking-mode, exit linking mode
+  - else if the timeline section is open, close it
+
 I am keeping the source-code private for the time-being, as I am still considering whether there is business potential for this project, but, for anyone curious, the stack is Svelte, TypeScript, SASS, Node, & AWS. 
 
 *Note: You may have been directed here from a reference to the legacy version of this project (tkinter Python application). That version has been moved [here](https://github.com/TheDitis/SpiroGen-Legacy)*
