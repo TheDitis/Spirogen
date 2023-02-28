@@ -1,5 +1,5 @@
 # Spirogen
-A web application for creating geometric visualizations and animations, especially as accompaniment to music
+A web application for creating geometric visualizations and animations, with the ability to react to music
 
  <img width="2416" alt="Spirogen Demo Shot 1" src="https://user-images.githubusercontent.com/44735056/221964739-b73315e9-b615-4291-bb79-c4510f9fe58a.png">
 
