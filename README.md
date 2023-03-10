@@ -33,7 +33,8 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 
 ## What's in the works:
 - [x] Tooltips for buttons [completed: 3/1/23]
-- [ ] Welcome modal (instructions/walkthrough, choose a demo project to load, & epillepsy warning) [in progress]
+- [x] Welcome modal with brief description & epilepsy warning [completed 4/9/23]
+- [ ] Instructions/walkthrough, choose a demo project to load [in progress]
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
 - [ ] Export project as video
 - [ ] Login
