@@ -32,15 +32,20 @@ This is a very fresh project that I am actively working on. Some features aren't
 MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 
 ## What's in the works:
-- [x] Tooltips for buttons [completed: 3/1/23]
-- [x] Welcome modal with brief description & epilepsy warning [completed 4/9/23]
-- [ ] Instructions/walkthrough, choose a demo project to load [in progress]
+- [x] Tooltips for buttons
+- [x] Epillepsy warning
+- [x] Welcome modal with demo projects to check out
+- [ ] Instructions/walkthroug
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
 - [ ] Export project as video
 - [ ] Login
 - [ ] Save projects to your account in the cloud
+- [ ] Undo/redo
+- [ ] Macros (create controls to assign to an arbitrary number of controls, with an arbitrary affect amount)
+- [ ] Background color (not just black background)
 - [ ] Community section (peruse projects that others have created)
 - [ ] Timeline navigation ergonomics options & improvements
+- [ ] Switch to OpenGL (svg rendering is the performance bottoleneck, and it often gives visibly aliased results)
 
 ## Keyboard Shortcuts:
 - <kbd>f</kbd>: toggle full-screen view
