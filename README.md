@@ -50,6 +50,8 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [ ] Reorder color swatches, or add new ones wherever
 - [ ] Global speed control (just oscillators, or possibly timeline content as well)
 - [ ] Duplicate layers, color schemes, modulators, etc, for modification from a common point
+- [ ] Hue slider for color scheme
+- [ ] Allow other modulator parameters as modulation targets
 
 ## Keyboard Shortcuts:
 - <kbd>f</kbd>: toggle full-screen view
