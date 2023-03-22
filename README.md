@@ -35,6 +35,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [x] Tooltips for buttons
 - [x] Epillepsy warning
 - [x] Welcome modal with demo projects to check out
+- [ ] Demos with audio/automation
 - [ ] Instructions/walkthroug
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
 - [ ] Export project as video
@@ -46,6 +47,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [ ] Community section (peruse projects that others have created)
 - [ ] Timeline navigation ergonomics options & improvements
 - [ ] Switch to OpenGL (svg rendering is the performance bottoleneck, and it often gives visibly aliased results)
+- [ ] Reorder color swatches, or add new ones wherever
 
 ## Keyboard Shortcuts:
 - <kbd>f</kbd>: toggle full-screen view
