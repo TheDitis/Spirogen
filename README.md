@@ -48,6 +48,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [ ] Timeline navigation ergonomics options & improvements
 - [ ] Switch to OpenGL (svg rendering is the performance bottoleneck, and it often gives visibly aliased results)
 - [ ] Reorder color swatches, or add new ones wherever
+- [ ] Global speed control (just oscillators, or possibly timeline content as well)
 
 ## Keyboard Shortcuts:
 - <kbd>f</kbd>: toggle full-screen view
