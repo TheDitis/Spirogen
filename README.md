@@ -49,6 +49,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [ ] Switch to OpenGL (svg rendering is the performance bottoleneck, and it often gives visibly aliased results)
 - [ ] Reorder color swatches, or add new ones wherever
 - [ ] Global speed control (just oscillators, or possibly timeline content as well)
+- [ ] Duplicate layers, color schemes, modulators, etc, for modification from a common point
 
 ## Keyboard Shortcuts:
 - <kbd>f</kbd>: toggle full-screen view
