@@ -35,6 +35,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [x] Tooltips for buttons
 - [x] Epillepsy warning
 - [x] Welcome modal with demo projects to check out
+- [x] Wave shape performance optimizations
 - [ ] Demos with audio/automation
 - [ ] Instructions/walkthroug
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
