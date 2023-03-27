@@ -44,6 +44,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [ ] Login
 - [ ] Save projects to your account in the cloud
 - [ ] Undo/redo
+- [ ] Waveform shape from audio data
 - [ ] Macros (create controls to assign to an arbitrary number of controls, with an arbitrary affect amount)
 - [ ] Background color (not just black background)
 - [ ] Community section (peruse projects that others have created)
