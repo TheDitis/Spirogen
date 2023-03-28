@@ -36,7 +36,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [x] Epillepsy warning
 - [x] Welcome modal with demo projects to check out
 - [x] Wave shape performance optimizations
-- [ ] Modulation link editing interface [in progress]
+- [x] Modulation link editing interface
 - [ ] Demos with audio/automation
 - [ ] Instructions/walkthroug
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
