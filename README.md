@@ -37,6 +37,8 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [x] Welcome modal with demo projects to check out
 - [x] Wave shape performance optimizations
 - [x] Modulation link editing interface
+- [x] Renamable tracks, layers, color schemes, and modulators
+- [ ] Floor/Threshold parameter for audio modulators [IN PROGRESS]
 - [ ] Demos with audio/automation
 - [ ] Instructions/walkthroug
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
