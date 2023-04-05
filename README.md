@@ -39,7 +39,9 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [x] Modulation link editing interface
 - [x] Renamable tracks, layers, color schemes, and modulators
 - [x] Floor/Threshold parameter for audio modulators
-- [ ] Audio waveforms as shapes [IN PROGRESS]
+- [x] Audio waveforms & spectrums as shapes
+- [x] Grid pattern type [still improving]
+- [ ] Shapers (apply a function to parameters to determine how they change over time/space)
 - [ ] Demos with audio/automation
 - [ ] Instructions/walkthroug
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
