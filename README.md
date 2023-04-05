@@ -41,6 +41,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [x] Floor/Threshold parameter for audio modulators
 - [x] Audio waveforms & spectrums as shapes
 - [x] Grid pattern type [still improving]
+- [x] Dynamic frame-rate (runs as smoothly as your computer allows)
 - [ ] Shapers (apply a function to parameters to determine how they change over time/space)
 - [ ] Demos with audio/automation
 - [ ] Instructions/walkthroug
