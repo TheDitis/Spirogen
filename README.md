@@ -42,7 +42,7 @@ MORE DETAILED INSTRUCTIONS WILL BE POSTED SOON!
 - [x] Audio waveforms & spectrums as shapes
 - [x] Grid pattern type [still improving]
 - [x] Dynamic frame-rate (runs as smoothly as your computer allows)
-- [ ] Shapers (apply a function to parameters to determine how they change over time/space)
+- [x] Shapers (apply a function to parameters to determine how they change over time/space)
 - [ ] Demos with audio/automation
 - [ ] Instructions/walkthroug
 - [ ] Info/Help system (panel that shows info about whatever is hovered over, similar to Ableton Live & Bitwig Studio)
